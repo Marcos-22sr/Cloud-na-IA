@@ -158,6 +158,19 @@ Full-Text Search – Busca textual.
 Faceted Search – Com filtros por campos.
 Semantic Search – Se ativado, usa compreensão semântica além da busca por palavra-chave.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+O que é o Microsoft Copilot?
+O Copilot combina modelos de linguagem avançados, como o GPT-4 da OpenAI, com tecnologias proprietárias da Microsoft, como o modelo Prometheus e o Microsoft Graph. Essa integração permite que o Copilot compreenda comandos em linguagem natural e forneça respostas contextualizadas, baseadas nos dados e permissões do usuário. 
+
+🛠️ Principais Aplicações
+O Microsoft Copilot está integrado a diversos produtos e serviços, incluindo:
+
+Microsoft 365 Copilot: Incorpora IA em aplicativos como Word, Excel, PowerPoint, Outlook e Teams. Por exemplo, no Word, pode ajudar a redigir documentos; no Excel, a gerar fórmulas e analisar dados; no PowerPoint, a criar apresentações a partir de resumos de documentos. 
+Windows Copilot: Integrado ao Windows 11, permite que os usuários interajam com o sistema operacional por meio de comandos de voz ou texto, facilitando tarefas como busca de arquivos, alteração de configurações e organização de informações. 
+The Official Microsoft Blog
+GitHub Copilot: Assistente de codificação que sugere trechos de código, funções e até algoritmos completos com base no contexto do que o desenvolvedor está escrevendo.
+YouTube
+Copilot Studio: Plataforma que permite a criação e personalização de agentes de IA empresariais, adaptados às necessidades específicas de cada organização.
 
 
